@@ -12,8 +12,8 @@ author_profile: true
 <h2 class="has-text-align-left">Emergence of Episodic Memory</h2>
 <p class="has-text-align-left has-normal-font-size">Working with infants and toddlers, I am investigating the neural contributions, namely the medial temporal lobe, including the hippocampus, to the emergence of episodic memory.</p>
 
-<h2 class="has-text-align-left">Atypical Memory Development</h2>
-<p class="has-text-align-left has-normal-font-size">I am investigating the elements of episodic memory in the context of developmental disorders and atypical cognition, specifically in Autism Spectrum Disorder.</p>
+<h2 class="has-text-align-right">Atypical Memory Development</h2>
+<p class="has-text-align-right has-normal-font-size">I am investigating the elements of episodic memory in the context of developmental disorders and atypical cognition, specifically in Autism Spectrum Disorder.</p>
 
 
 <h2 class="has-text-align-left">Sleep & Cognition</h2>
