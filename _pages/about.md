@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# Ph.D. candidate studying Developmental Cognitive Neuroscience
+<h1><style="text-align: center;">Ph.D. candidate studying Developmental Cognitive Neuroscience</style></h1>
 
 <img src="images/LM Profile.jpg" alt="LM Profile.jpg" width="400"/>
 
