@@ -36,7 +36,7 @@ redirect_from:
 <body>
   <div class="container">
      <div class="text">
-       <p>y research interests include the emergence of episodic memory, sleep, cognitive developmental, and atypical memory development.</p>
+       <p>My research interests include the emergence of episodic memory, sleep, cognitive developmental, and atypical memory development.</p>
      </div>
      <div class="image">
        <img src="images/brains.jpeg">
