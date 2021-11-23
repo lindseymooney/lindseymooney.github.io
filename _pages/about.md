@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-######Ph.D. candidate studying Developmental Cognitive Neuroscience
+###### Ph.D. candidate studying Developmental Cognitive Neuroscience
 
-/assets/images/LM Profile.jpg
+images/LM Profile.jpg
 
-##I presently work with Dr. Simona Ghetti in the [Memory and Development Lab](https://madlab.faculty.ucdavis.edu/) at UC Davis.
+## I presently work with Dr. Simona Ghetti in the [Memory and Development Lab](https://madlab.faculty.ucdavis.edu/) at UC Davis.
 
 
-Research Interests
-My research interests include the emergence of episodic memory, sleep, cognitive developmental, and atypical memory development.
+# Research Interests
+My research interests include the emergence of episodic memory, sleep, cognitive developmental, and atypical memory development. images/brains.jpeg
