@@ -10,6 +10,6 @@ redirect_from:
 
 ######Ph.D. candidate studying Developmental Cognitive Neuroscience
 
-picture here
+/assets/images/LM profile.jpg
 
 ##I presently work with Dr. Simona Ghetti in the [Memory and Development Lab](https://madlab.faculty.ucdavis.edu/) at UC Davis.
