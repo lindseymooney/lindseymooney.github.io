@@ -43,6 +43,3 @@ redirect_from:
      </div>
    </div>
  </body>
-  
-
-My research interests include the emergence of episodic memory, sleep, cognitive developmental, and atypical memory development. ![3D Printed Brains](images/brains.jpeg)
