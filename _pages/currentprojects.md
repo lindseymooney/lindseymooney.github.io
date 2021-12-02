@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<h1>My interests span the development of episodic memory and it’s various contributing factors such as neural development, sleep, and language acquisition as well deviations from typical memory development.</h1>
+<h2>My interests span the development of episodic memory and it’s various contributing factors such as neural development, sleep, and language acquisition as well deviations from typical memory development.</h2>
 
 <h2 class="has-text-align-left">Emergence of Episodic Memory</h2>
 <p class="has-text-align-left has-normal-font-size">Working with infants and toddlers, I am investigating the neural contributions, namely the medial temporal lobe, including the hippocampus, to the emergence of episodic memory.</p>
