@@ -9,11 +9,7 @@ author_profile: true
 
 <h3>My interests span the development of episodic memory and it’s various contributing factors such as neural development, sleep, and language acquisition as well deviations from typical memory development.</h3>
   
-  
-  <p>-1-2-3-4-5-6-7------------------------------</p>
-  
-  
-![](/images/MRI_1.jpeg){: style="float: left"; padding-right:10px"} 
+![](/images/MRI_1.jpeg){: style="float: left" 
 <h2>Emergence of Episodic Memory</h2>
 <p class="has-text-align-left has-normal-font-size">Working with infants and toddlers, I am investigating the neural contributions, namely the medial temporal lobe, including the hippocampus, to the emergence of episodic memory.</p>
 
@@ -24,7 +20,7 @@ author_profile: true
 <br/>
 <br/>
 
-![](/images/MRI_2.jpeg){: style="float: right"; padding-right:10px"} 
+![](/images/MRI_2.jpeg){: style="float: right"} 
 <h2>Atypical Memory Development</h2>
 <p class="has-text-align-right has-normal-font-size">I am investigating the elements of episodic memory in the context of developmental disorders and atypical cognition, specifically in Autism Spectrum Disorder.</p>
 
@@ -35,6 +31,6 @@ author_profile: true
 <br/>
 <br/>
 
-![](/images/MRI_3.jpeg){: style="float: left"; padding-right:10px"} 
+![](/images/MRI_3.jpeg){: style="float: left"} 
 <h2>Sleep & Cognition</h2>
 <p class="has-text-align-left has-normal-font-size">I am beginning to investigate the neural and physiological experience of sleep as it pertains to episodic memory and cognitive development in children.</p>
