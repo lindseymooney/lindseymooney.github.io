@@ -12,7 +12,7 @@ author_profile: true
 <body>
   <div class = "container">
     <div class = "image"> 
-      <img src = "images/MRI_1.jpeg">
+      <img src="images/brains.jpeg">
     </div>
     <div class = "text">
       <h3>Emergence of Episodic Memory</h3> 
@@ -29,9 +29,13 @@ author_profile: true
     <div class = "image"> 
       <img src = "images/MRI_1.jpeg">
     </div>
-   </div>
+  </div>
+  <
    
 
+  
+  
+  <p>-------------------------------------</p>
 <img style="float: right;" src="images/MRI_2.jpeg"> <h2 class="has-text-align-left">Emergence of Episodic Memory</h2>
 <p class="has-text-align-left has-normal-font-size">Working with infants and toddlers, I am investigating the neural contributions, namely the medial temporal lobe, including the hippocampus, to the emergence of episodic memory.</p>
 
