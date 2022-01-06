@@ -35,17 +35,20 @@ author_profile: true
 
   
   
-  <p>-1-2-----------------------------------</p>
+  <p>-1-2-3----------------------------------</p>
   
   
-![](/images/MRI_2.jpeg){: style="float: left"} test
+![](/images/MRI_1.jpeg){: style="float: left"} <h2>Emergence of Episodic Memory</h2><br/><p>Working with infants and toddlers, I am investigating the neural contributions, namely the medial temporal lobe, including the hippocampus, to the emergence of episodic memory.</p>
+
+<br/>
   
-<img align="right" src="images/MRI_1.jpeg"> <h2>Emergence of Episodic Memory</h2>
+<img align="right" src="images/MRI_1.jpeg">
+<h2>Emergence of Episodic Memory</h2>
 <p class="has-text-align-left has-normal-font-size">Working with infants and toddlers, I am investigating the neural contributions, namely the medial temporal lobe, including the hippocampus, to the emergence of episodic memory.</p>
 
 <h2 class="has-text-align-right">Atypical Memory Development</h2> ![](/images/MRI_2.jpeg)
 <p class="has-text-align-right has-normal-font-size">I am investigating the elements of episodic memory in the context of developmental disorders and atypical cognition, specifically in Autism Spectrum Disorder.</p>
 
 
-![](/images/MRI_3.jpeg) <h2 class="has-text-align-left">Sleep & Cognition</h2>
+![](/images/MRI_3.jpeg) <h2>Sleep & Cognition</h2>
 <p class="has-text-align-left has-normal-font-size">I am beginning to investigate the neural and physiological experience of sleep as it pertains to episodic memory and cognitive development in children.</p>
