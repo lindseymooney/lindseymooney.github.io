@@ -30,12 +30,16 @@ author_profile: true
       <img src = "images/MRI_1.jpeg">
     </div>
   </div>
-  <
+ </body>
    
 
   
   
-  <p>-1------------------------------------</p>
+  <p>-1-2-----------------------------------</p>
+  
+  
+![](/images/MRI_2.jpeg){: style="float: left"} test
+  
 <img align="right" src="images/MRI_1.jpeg"> <h2>Emergence of Episodic Memory</h2>
 <p class="has-text-align-left has-normal-font-size">Working with infants and toddlers, I am investigating the neural contributions, namely the medial temporal lobe, including the hippocampus, to the emergence of episodic memory.</p>
 
