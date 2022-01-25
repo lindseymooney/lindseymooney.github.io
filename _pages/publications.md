@@ -49,7 +49,7 @@ Published in _Autism Research_, 2020
 <br/>
 ~Citation~
 <br/>
-[View](/files/Children with ASD Show Impaired Item‐Space Recollection But Preserved Item‐Color.pdf)
+[View](/files/Children with ASD Show Impaired Item‐Space Recollection But Preserved Item‐Color.pdf) xxx
 <br/>
 <br/>
 <br/>
@@ -83,7 +83,7 @@ Published in _Brain Stimulation_, 2019
 <br/>
 ~Citation~
 <br/>
-[View](/files/Motor Cortex Facilitation ASD_ADHD.pdf) XXX
+[View](/files/Motor Cortex Facilitation ASD_ADHD.pdf)
 <br/>
 <br/>
 <br/>
