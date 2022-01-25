@@ -66,6 +66,7 @@ Published in _Infant Behavior & Development_, 2020
 <br/>
 <br/>
 [Motor cortex facilitation: a marker of attention deficit hyperactivity disorder co-occurrence in autism spectrum disorder](https://www.researchgate.net/publication/337213805_Motor_cortex_facilitation_a_marker_of_attention_deficit_hyperactivity_disorder_co-occurrence_in_autism_spectrum_disorder)
+<br/>
 Published in _Translational Psychiatry_, 2019
 <br/>
 ~Summary~
@@ -77,6 +78,7 @@ Published in _Translational Psychiatry_, 2019
 <br/>
 <br/>
 [Motor Cortex Facilitation: An inattention marker in ADHD co-occurrence in Autism Spectrum Disorder](https://www.researchgate.net/publication/331444265_Motor_Cortex_Facilitation_An_inattention_marker_in_ADHD_co-occurrence_in_Autism_Spectrum_Disorder)
+<br/>
 Published in _Brain Stimulation_, 2019
 <br/>
 ~Summary~
@@ -88,6 +90,7 @@ Published in _Brain Stimulation_, 2019
 <br/>
 <br/>
 [Psychopharmacology of Autism Spectrum Disorders](https://www.researchgate.net/publication/330496101_Psychopharmacology_of_Autism_Spectrum_Disorders)
+<br/>
 Published in Book: _Autism and Pervasive Developmental Disorders_ 
 <br/>
 ~Summary~
@@ -99,6 +102,7 @@ Published in Book: _Autism and Pervasive Developmental Disorders_
 <br/>
 <br/>
 [Autism and Pervasive Developmental Disorders](https://www.researchgate.net/publication/330496421_Autism_and_Pervasive_Developmental_Disorders)
+<br/>
 Published in _Cambridge Core_, 2019
 <br/>
 ~Summary~
@@ -110,6 +114,7 @@ Published in _Cambridge Core_, 2019
 <br/>
 <br/>
 [Psychopharmacology of neurobehavioral disorders](https://www.researchgate.net/publication/337178239_Psychopharmacology_of_neurobehavioral_disorders)
+<br/>
 Published in _Handbook of Clinical Neurology_, 2019
 <br/>
 ~Summary~
@@ -121,6 +126,7 @@ Published in _Handbook of Clinical Neurology_, 2019
 <br/>
 <br/>
 [5.2 Cortical Excitability and Behavioral Correlates of COMORBID ADHD in Youth with Autism Spectrum Disorders](https://www.researchgate.net/publication/320666833_52_Cortical_Excitability_and_Behavioral_Correlates_of_COMORBID_ADHD_in_Youth_with_Autism_Spectrum_Disorders)
+<br/>
 Published in _Journal of the American Academy of Child and Adolescent Psychiatry_, 2017
 <br/>
 ~Summary~
@@ -132,6 +138,7 @@ Published in _Journal of the American Academy of Child and Adolescent Psychiatry
 <br/>
 <br/>
 [Eye gaze and pupillary response in Angelman syndrome](https://www.researchgate.net/publication/318660506_Eye_gaze_and_pupillary_response_in_Angelman_syndrome)
+<br/>
 Published in _Research in Developmental Disabilities_, 2017
 <br/>
 ~Summary~
@@ -143,6 +150,7 @@ Published in _Research in Developmental Disabilities_, 2017
 <br/>
 <br/>
 [The Role of Practice Testing and Presentation Style on Undergraduate Students' Retention of Information](https://www.researchgate.net/publication/314247793_The_Role_of_Practice_Testing_and_Presentation_Style_on_Undergraduate_Students%27_Retention_of_Information)
+<br/>
 Published in _Psychological Inquiry_, 2016
 <br/>
 ~Summary~
