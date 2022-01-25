@@ -13,7 +13,7 @@ Published in _Current Biology: CB_, 2021
 <br/>
 ~Citation~
 <br/>
-Download __need file__
+[View] __need file__
 <br/>
 <br/>
 <br/>
@@ -25,7 +25,7 @@ Published in _SSRN Electronic Journal_, 2021
 <br/>
 ~Citation~
 <br/>
-Download __need file__
+[View] __need file__
 <br/>
 <br/>
 <br/>
@@ -37,7 +37,7 @@ Published in _Developmental Cognitive Neuroscience_, 2020
 <br/>
 ~Citation~
 <br/>
-[Download](/files/Temporal Memory Activation in Toddlers.pdf) good
+[View](/files/Temporal Memory Activation in Toddlers.pdf)
 <br/>
 <br/>
 <br/>
@@ -49,7 +49,7 @@ Published in _Autism Research_, 2020
 <br/>
 ~Citation~
 <br/>
-[Download](/files/Children with ASD Show Impaired Item‐Space Recollection But Preserved Item‐Color.pdf)
+[View](/files/Children with ASD Show Impaired Item‐Space Recollection But Preserved Item‐Color.pdf)
 <br/>
 <br/>
 <br/>
@@ -61,31 +61,95 @@ Published in _Infant Behavior & Development_, 2020
 <br/>
 ~Citation~
 <br/>
-[Download] __need file__
+[View] __need file__
 <br/>
 <br/>
 <br/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[Motor cortex facilitation: a marker of attention deficit hyperactivity disorder co-occurrence in autism spectrum disorder](https://www.researchgate.net/publication/337213805_Motor_cortex_facilitation_a_marker_of_attention_deficit_hyperactivity_disorder_co-occurrence_in_autism_spectrum_disorder)
+Published in _Translational Psychiatry_, 2019
+<br/>
+~Summary~
+<br/>
+~Citation~
+<br/>
+[View] __need file__
+<br/>
+<br/>
+<br/>
+[Motor Cortex Facilitation: An inattention marker in ADHD co-occurrence in Autism Spectrum Disorder](https://www.researchgate.net/publication/331444265_Motor_Cortex_Facilitation_An_inattention_marker_in_ADHD_co-occurrence_in_Autism_Spectrum_Disorder)
+Published in _Brain Stimulation_, 2019
+<br/>
+~Summary~
+<br/>
+~Citation~
+<br/>
+[View](/files/Motor Cortex Facilitation ASD_ADHD.pdf) XXX
+<br/>
+<br/>
+<br/>
+[Psychopharmacology of Autism Spectrum Disorders](https://www.researchgate.net/publication/330496101_Psychopharmacology_of_Autism_Spectrum_Disorders)
+Published in Book: _Autism and Pervasive Developmental Disorders_ 
+<br/>
+~Summary~
+<br/>
+~Citation~
+<br/>
+[View]__need file__
+<br/>
+<br/>
+<br/>
+[Autism and Pervasive Developmental Disorders](https://www.researchgate.net/publication/330496421_Autism_and_Pervasive_Developmental_Disorders)
+Published in _Cambridge Core_, 2019
+<br/>
+~Summary~
+<br/>
+~Citation~
+<br/>
+[View]__need file__
+<br/>
+<br/>
+<br/>
+[Psychopharmacology of neurobehavioral disorders](https://www.researchgate.net/publication/337178239_Psychopharmacology_of_neurobehavioral_disorders)
+Published in _Handbook of Clinical Neurology_, 2019
+<br/>
+~Summary~
+<br/>
+~Citation~
+<br/>
+[View](/files/Psychopharmacology of NBD.pdf)
+<br/>
+<br/>
+<br/>
+[5.2 Cortical Excitability and Behavioral Correlates of COMORBID ADHD in Youth with Autism Spectrum Disorders](https://www.researchgate.net/publication/320666833_52_Cortical_Excitability_and_Behavioral_Correlates_of_COMORBID_ADHD_in_Youth_with_Autism_Spectrum_Disorders)
+Published in _Journal of the American Academy of Child and Adolescent Psychiatry_, 2017
+<br/>
+~Summary~
+<br/>
+~Citation~
+<br/>
+[View]__need file__
+<br/>
+<br/>
+<br/>
+[Eye gaze and pupillary response in Angelman syndrome](https://www.researchgate.net/publication/318660506_Eye_gaze_and_pupillary_response_in_Angelman_syndrome)
+Published in _Research in Developmental Disabilities_, 2017
+<br/>
+~Summary~
+<br/>
+~Citation~
+<br/>
+[View](/files/Angelman Gaze and Pupillary Response.pdf)
+<br/>
+<br/>
+<br/>
+[The Role of Practice Testing and Presentation Style on Undergraduate Students' Retention of Information](https://www.researchgate.net/publication/314247793_The_Role_of_Practice_Testing_and_Presentation_Style_on_Undergraduate_Students%27_Retention_of_Information)
+Published in _Psychological Inquiry_, 2016
+<br/>
+~Summary~
+<br/>
+~Citation~
+<br/>
+[View]__need file__
+<br/>
+<br/>
+<br/>
