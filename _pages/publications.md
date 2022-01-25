@@ -37,7 +37,7 @@ Published in _Developmental Cognitive Neuroscience_, 2020
 <br/>
 ~Citation~
 <br/>
-[Download](/files/Temporal Memory Activation in Toddlers.pdf)
+[Download](/files/Temporal Memory Activation in Toddlers.pdf) good
 <br/>
 <br/>
 <br/>
@@ -49,7 +49,7 @@ Published in _Autism Research_, 2020
 <br/>
 ~Citation~
 <br/>
-[Download](/files/Children with ASD Show Impaired Item‐Space Recollection  But Preserved Item‐Color.pdf)
+[Download](/files/Children with ASD Show Impaired Item‐Space Recollection But Preserved Item‐Color.pdf)
 <br/>
 <br/>
 <br/>
