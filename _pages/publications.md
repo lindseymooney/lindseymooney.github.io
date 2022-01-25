@@ -49,7 +49,7 @@ Published in _Autism Research_, 2020
 <br/>
 ~Citation~
 <br/>
-[View](/files/Children with ASD Show Impaired Item‐Space Recollection But Preserved Item‐Color.pdf) xxx
+[View](files/Children with ASD Show Impaired Item‐Space Recollection  But Preserved Item‐Color.pdf) !!!
 <br/>
 <br/>
 <br/>
