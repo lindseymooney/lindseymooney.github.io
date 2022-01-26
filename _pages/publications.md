@@ -89,7 +89,7 @@ Published in _Psychological Inquiry_, 2016
 <br/>
 <br/>
 <br/>
-__Book Chapter__
+__Book Chapters__
 1. [Psychopharmacology of neurobehavioral disorders](https://www.researchgate.net/publication/337178239_Psychopharmacology_of_neurobehavioral_disorders)
 <br/>
 Published in _Handbook of Clinical Neurology_, 2019
