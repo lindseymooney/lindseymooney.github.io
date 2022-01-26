@@ -23,7 +23,9 @@ Published in _Developmental Cognitive Neuroscience_, 2020
 <br/>
 ~Summary~
 <br/>
-~Citation~
+<br/>
+__Mooney, L. N.__, Johnson, E. G., Prabhakar, J., & Ghetti, S. (2020). Memory-Related Hippocampal Activation During Sleep and Temporal Memory in Toddlers. _Developmental Cognitive Neuroscience_, 100908.
+<br/>
 <br/>
 [View](/files/Temporal Memory Activation in Toddlers.pdf)
 <br/>
@@ -35,7 +37,7 @@ Published in _Autism Research_, 2020
 <br/>
 ~Summary~
 <br/>
-~Citation~
+__Mooney, L. N.__, Nordahl, C., Soloman, M., & Ghetti, S. (2020). Children with ASD Show Impaired Item-Space Recollection, but Preserved Item-Color Recollection. _Autism Research_. 1-13. https://doi/org/10. 1002/aur.2395
 <br/>
 [View](/files/Children with ASD Show Impaired Item‐Space Recollection  But Preserved Item‐Color.pdf) xxx
 <br/>
@@ -47,7 +49,7 @@ Published in _Infant Behavior & Development_, 2020
 <br/>
 ~Summary~
 <br/>
-~Citation~
+Johnson, E. G., Prabhakar, J., __Mooney, L. N.__, & Ghetti, S. (2020). Neuroimaging the sleeping brain: Insight on memory functioning in infants and toddlers. _Infant Behavior and Development_, 58, 101427.
 <br/>
 [View](/files/Neuroimaging Sleeping Toddler Brain.pdf)
 <br/>
@@ -59,7 +61,7 @@ Published in _Translational Psychiatry_, 2020
 <br/>
 ~Summary~
 <br/>
-~Citation~
+Pedapati, E., __Mooney, L. N.__, Wu, S., Erickson, C., Sweeney, J., Shaffer, R.C., Horn, P.S., Wink, L.K., & Gilbert, D. (2020). Motor Cortex Facilitation: A marker of Attention Deficit Hyperactivity Disorder co-occurrence in Austism Spectrum Disorder. _Translational Psychiatry_, 9(1), 1-11
 <br/>
 [View](/files/Motor Cortex Facilitation ASD_ADHD.pdf)
 <br/>
@@ -71,7 +73,7 @@ Published in _Research in Developmental Disabilities_, 2017
 <br/>
 ~Summary~
 <br/>
-~Citation~
+Hong, M.P., Guilfoyle, J. L., __Mooney, L. N.__, Wink, L. K., Pedapati, E.V., Shaffer, R. C., Sweeney, J. A., Erickson, C. A. (2017). Eye Gaze and Pupillary Response in Angleman Syndrome. _Research in Developmental Disorders_, 68, 88-94.
 <br/>
 [View](/files/Angelman Gaze and Pupillary Response.pdf)
 <br/>
@@ -83,7 +85,8 @@ Published in _Psychological Inquiry_, 2016
 <br/>
 ~Summary~
 <br/>
-~Citation~
+** __Mooney, L. N.__., Sonnentag, T. L., & Dulaney, C. L. (2016). The Role of Practice Testing and Presentation Style on Undergraduate Students' Retention of Information. _Journal of Psychological Inquiry._ 21(1), 6-19.
+  ** Received the Elizabeth A. Dahl, Ph.D., Award for Excellence in Undergraduate Research
 <br/>
 [View](/files/Role of Practice Testing Effect.pdf)
 <br/>
@@ -96,7 +99,7 @@ Published in _Handbook of Clinical Neurology_, 2019
 <br/>
 ~Summary~
 <br/>
-~Citation~
+__Mooney, L. N.__, Dominick, K.C., & Erickson, C. A. (2019). Psychopharmacology of Neurodevelopment Disorders. In: Reus V. and D. Lindqvist D. (Eds.), _Psychopharmacology of Neurologic Disease_. (383-390). San Diego: Elsevier BV.
 <br/>
 [View](/files/Psychopharmacology of NBD.pdf)
 <br/>
@@ -108,6 +111,6 @@ Published in Book: _Autism and Pervasive Developmental Disorders_
 <br/>
 ~Summary~
 <br/>
-~Citation~
+__Mooney, L. N.__, Fosdick C, Erickson CA. (2019). Psychopharmacology of Autism Spectrum Disorder. In F. R. Volkmar (Ed.), _Autism and Pervasive Developmental Disorders_ (pp. 158-175). Cambridge, UK: Cambridge University Press. 
 <br/>
 [View](/files/PsychoPharmASDbookchapter.pdf)
