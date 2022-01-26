@@ -5,31 +5,19 @@ permalink: /publications/
 author_profile: true
 ---
 
-[Activation for newly learned words in left medial-temporal lobe during toddlers' sleep is associated with memory for words](https://www.researchgate.net/publication/355498630_Activation_for_newly_learned_words_in_left_medial-temporal_lobe_during_toddlers'_sleep_is_associated_with_memory_for_words) 
+1. [Activation for Newly Learned Words in Left Medial-Temporal Lobe During Toddlers’ Sleep is Associated with Word Learning](https://www.researchgate.net/publication/355498630_Activation_for_newly_learned_words_in_left_medial-temporal_lobe_during_toddlers'_sleep_is_associated_with_memory_for_words) 
 <br/>
-Published in _Current Biology: CB_, 2021
-<br/>
-~Summary~
-<br/>
-~Citation~
-<br/>
-[View] __need file__
-<br/>
-<br/>
-<br/>
-[Activation for Newly Learned Words in Left Medial-Temporal Lobe During Toddlers’ Sleep is Associated with Word Learning](https://www.researchgate.net/publication/348902249_Activation_for_Newly_Learned_Words_in_Left_Medial-Temporal_Lobe_During_Toddlers%27_Sleep_is_Associated_with_Word_Learning)
-<br/>
-Published in _SSRN Electronic Journal_, 2021
+Published in _Current Biology: CB_, 2021 __confirm Journal__
 <br/>
 ~Summary~
 <br/>
 ~Citation~
 <br/>
-[View] __need file__
+[View](/files/Activation Words in MTL Toddlers.pdf) xxx
 <br/>
 <br/>
 <br/>
-[Memory-Related Hippocampal Activation during Sleep and Temporal Memory in Toddlers](https://www.researchgate.net/publication/347979113_Memory-Related_Hippocampal_Activation_during_Sleep_and_Temporal_Memory_in_Toddlers)
+2. [Memory-Related Hippocampal Activation during Sleep and Temporal Memory in Toddlers](https://www.researchgate.net/publication/347979113_Memory-Related_Hippocampal_Activation_during_Sleep_and_Temporal_Memory_in_Toddlers)
 <br/>
 Published in _Developmental Cognitive Neuroscience_, 2020
 <br/>
@@ -41,7 +29,7 @@ Published in _Developmental Cognitive Neuroscience_, 2020
 <br/>
 <br/>
 <br/>
-[Children with ASD Show Impaired Item-Space Recollection, But Preserved Item-Color Recollection](https://www.researchgate.net/publication/344340807_Children_with_ASD_Show_Impaired_Item-Space_Recollection_But_Preserved_Item-Color_Recollection)
+3. [Children with ASD Show Impaired Item-Space Recollection, But Preserved Item-Color Recollection](https://www.researchgate.net/publication/344340807_Children_with_ASD_Show_Impaired_Item-Space_Recollection_But_Preserved_Item-Color_Recollection)
 <br/>
 Published in _Autism Research_, 2020
 <br/>
@@ -49,11 +37,11 @@ Published in _Autism Research_, 2020
 <br/>
 ~Citation~
 <br/>
-[View](files/Children with ASD Show Impaired Item‐Space Recollection  But Preserved Item‐Color.pdf) !!!
+[View](/files/Children with ASD Show Impaired Item‐Space Recollection  But Preserved Item‐Color.pdf) xxx
 <br/>
 <br/>
 <br/>
-[Neuroimaging the sleeping brain: Insight on memory functioning in infants and toddlers](https://www.researchgate.net/publication/339342817_Neuroimaging_the_sleeping_brain_Insight_on_memory_functioning_in_infants_and_toddlers)
+4. [Neuroimaging the sleeping brain: Insight on memory functioning in infants and toddlers](https://www.researchgate.net/publication/339342817_Neuroimaging_the_sleeping_brain_Insight_on_memory_functioning_in_infants_and_toddlers)
 <br/>
 Published in _Infant Behavior & Development_, 2020
 <br/>
@@ -61,25 +49,13 @@ Published in _Infant Behavior & Development_, 2020
 <br/>
 ~Citation~
 <br/>
-[View] __need file__
+[View](/files/Neuroimaging Sleeping Toddler Brain.pdf) xxx
 <br/>
 <br/>
 <br/>
-[Motor cortex facilitation: a marker of attention deficit hyperactivity disorder co-occurrence in autism spectrum disorder](https://www.researchgate.net/publication/337213805_Motor_cortex_facilitation_a_marker_of_attention_deficit_hyperactivity_disorder_co-occurrence_in_autism_spectrum_disorder)
+5. [Motor cortex facilitation: a marker of attention deficit hyperactivity disorder co-occurrence in autism spectrum disorder](https://www.researchgate.net/publication/337213805_Motor_cortex_facilitation_a_marker_of_attention_deficit_hyperactivity_disorder_co-occurrence_in_autism_spectrum_disorder)
 <br/>
-Published in _Translational Psychiatry_, 2019
-<br/>
-~Summary~
-<br/>
-~Citation~
-<br/>
-[View] __need file__
-<br/>
-<br/>
-<br/>
-[Motor Cortex Facilitation: An inattention marker in ADHD co-occurrence in Autism Spectrum Disorder](https://www.researchgate.net/publication/331444265_Motor_Cortex_Facilitation_An_inattention_marker_in_ADHD_co-occurrence_in_Autism_Spectrum_Disorder)
-<br/>
-Published in _Brain Stimulation_, 2019
+Published in _Translational Psychiatry_, 2019 __only chapter__
 <br/>
 ~Summary~
 <br/>
@@ -89,20 +65,21 @@ Published in _Brain Stimulation_, 2019
 <br/>
 <br/>
 <br/>
-[Psychopharmacology of Autism Spectrum Disorders](https://www.researchgate.net/publication/330496101_Psychopharmacology_of_Autism_Spectrum_Disorders)
+6. [Psychopharmacology of Autism Spectrum Disorders](https://www.researchgate.net/publication/330496101_Psychopharmacology_of_Autism_Spectrum_Disorders)
 <br/>
-Published in Book: _Autism and Pervasive Developmental Disorders_ 
+Published in Book: _Autism and Pervasive Developmental Disorders_ __only chapter__
 <br/>
 ~Summary~
 <br/>
 ~Citation~
 <br/>
-[View]__need file__
+[View](/files/PsychoPharmASDbookchapter.pdf)
 <br/>
 <br/>
 <br/>
-[Autism and Pervasive Developmental Disorders](https://www.researchgate.net/publication/330496421_Autism_and_Pervasive_Developmental_Disorders)
+7. [Autism and Pervasive Developmental Disorders](https://www.researchgate.net/publication/330496421_Autism_and_Pervasive_Developmental_Disorders)
 <br/>
+___6. and 7.: 6 is the title, 7. is the article title (according to PsychoPharmASDbookchapter.pdf, which should be put here___
 Published in _Cambridge Core_, 2019
 <br/>
 ~Summary~
