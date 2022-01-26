@@ -13,7 +13,7 @@ Published in _Current Biology: CB_, 2021
 <br/>
 ~Citation~
 <br/>
-[View](/files/Activation Words in MTL Toddlers.pdf) xxx
+[View](/files/Activation Words in MTL Toddlers.pdf)
 <br/>
 <br/>
 <br/>
@@ -49,7 +49,7 @@ Published in _Infant Behavior & Development_, 2020
 <br/>
 ~Citation~
 <br/>
-[View](/files/Neuroimaging Sleeping Toddler Brain.pdf) xxx
+[View](/files/Neuroimaging Sleeping Toddler Brain.pdf)
 <br/>
 <br/>
 <br/>
@@ -104,13 +104,10 @@ Published in _Handbook of Clinical Neurology_, 2019
 <br/>
 2. [Psychopharmacology of Autism Spectrum Disorders](https://www.researchgate.net/publication/330496101_Psychopharmacology_of_Autism_Spectrum_Disorders)
 <br/>
-Published in Book: _Autism and Pervasive Developmental Disorders_ __only chapter__
+Published in Book: _Autism and Pervasive Developmental Disorders_
 <br/>
 ~Summary~
 <br/>
 ~Citation~
 <br/>
 [View](/files/PsychoPharmASDbookchapter.pdf)
-<br/>
-<br/>
-<br/>
