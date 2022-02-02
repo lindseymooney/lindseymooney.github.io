@@ -25,7 +25,7 @@ author_profile: true
        <p class="has-text-align-right has-normal-font-size">I am investigating the elements of episodic memory in the context of developmental disorders and atypical cognition, specifically in Autism Spectrum Disorder.</p>
      </div>
      <div class="image">
-       <img src = "images/MRI_2.jpeg" width = "200">
+       <img src = "images/MRI_2.jpeg">
      </div>
    </div>
  </body>
