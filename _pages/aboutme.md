@@ -13,4 +13,4 @@ My research interests include episodic memory development, atypical memory devel
 
 In my personal time, I enjoy being a cat mom, spending time outdoors, and practicing yoga.
 
-Wanna chat? Email me at: lnmooney@ucdavis.edu   linzmooney@gmail.com
+Wanna chat? Email me at: lnmooney@ucdavis.edu   or   linzmooney@gmail.com
