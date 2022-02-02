@@ -11,3 +11,6 @@ main:
     
   - title: "Current Projects"
     url: /currentprojects/
+    
+  - title: "About Me"
+    url: /aboutme/
