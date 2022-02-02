@@ -11,15 +11,25 @@ author_profile: true
 <br/>
 
 ![](/images/MRI_1.jpeg){: style="float: left" style="width:200px"}
-<h2>hello Emergence of Episodic Memory</h2>
+<h2>hello!! Emergence of Episodic Memory</h2>
 <p class="has-text-align-left has-normal-font-size">Working with infants and toddlers, I am investigating the neural contributions, namely the medial temporal lobe, including the hippocampus, to the emergence of episodic memory.</p>
 
 <br/>
 <br/>
 
-<img src = "images/MRI_2.jpeg" style = "float:right" width = "200"/>
-<h2>Atypical Memory Development</h2>
-<p class="has-text-align-right has-normal-font-size">I am investigating the elements of episodic memory in the context of developmental disorders and atypical cognition, specifically in Autism Spectrum Disorder.</p>
+<body>
+  <div class="container">
+     <div class="text">
+       <h2>Atypical Memory Development</h2>
+       <br/>
+       <p class="has-text-align-right has-normal-font-size">I am investigating the elements of episodic memory in the context of developmental disorders and atypical cognition, specifically in Autism Spectrum Disorder.</p>
+     </div>
+     <div class="image">
+       <img src = "images/MRI_2.jpeg" width = "200"/>
+     </div>
+   </div>
+ </body>
+
 
 <br/>
 <br/>
