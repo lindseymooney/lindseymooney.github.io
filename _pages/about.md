@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Lindsey Mooney"
-excerpt: "About me"
+excerpt: "Home"
 author_profile: true
 redirect_from: 
   - /about/
