@@ -16,17 +16,11 @@ author_profile: true
 
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 <img src = "images/MRI_2.jpeg" style = "float:right" width = "200">
 <h2>Atypical Memory Development</h2>
 <p class="has-text-align-right has-normal-font-size">I am investigating the elements of episodic memory in the context of developmental disorders and atypical cognition, specifically in Autism Spectrum Disorder.</p>
 
-<br/>
-<br/>
 <br/>
 <br/>
 
@@ -36,10 +30,7 @@ author_profile: true
 
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 
 ![](/images/MRI_3.jpeg){: style="float: left" style="width:200px"} 
 <h2>Sleep & Cognition</h2>
