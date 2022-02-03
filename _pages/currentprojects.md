@@ -11,7 +11,8 @@ author_profile: true
 <br/>
 <br/>
 <br/>
-<img width = "200" src = "images/MRI_1.jpeg" style = "float: left"> 
+<img width = "200" src = "/images/MRI_1.jpeg" style = "float: left"> 
+<h2>Emergence of Episodic Memory</h2>
 <p class="has-text-align-left has-normal-font-size">Working with infants and toddlers, I am investigating the neural contributions, namely the medial temporal lobe, including the hippocampus, to the emergence of episodic memory.</p>
 
 
