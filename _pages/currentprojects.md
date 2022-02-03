@@ -6,8 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-hello
-<h3>My interests span the development of episodic memory and it’s various contributing factors such as neural development, sleep, and language acquisition as well deviations from typical memory development.</h3>
+<h3>hi My interests span the development of episodic memory and it’s various contributing factors such as neural development, sleep, and language acquisition as well deviations from typical memory development.</h3>
 <br/>
 
 ![](/images/MRI_1.jpeg){style="float: left" style="width:200px"}
