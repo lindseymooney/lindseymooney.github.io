@@ -21,7 +21,6 @@ author_profile: true
 <br/>
 <br/>
 <br/>
-<br/>
 <img width = "200" src = "/images/MRI_3.jpeg" style = "float: left">
 <h2>Sleep & Cognition</h2>
 <p class="has-text-align-left has-normal-font-size">I am beginning to investigate the neural and physiological experience of sleep as it pertains to episodic memory and cognitive development in children.</p>
