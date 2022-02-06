@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 __Peer-Reviewed Articles__
-[Activation for Newly Learned Words in Left Medial-Temporal Lobe During Toddlers’ Sleep is Associated with Word Learning](https://www.researchgate.net/publication/355498630_Activation_for_newly_learned_words_in_left_medial-temporal_lobe_during_toddlers'_sleep_is_associated_with_memory_for_words) 
+<br/>[Activation for Newly Learned Words in Left Medial-Temporal Lobe During Toddlers’ Sleep is Associated with Word Learning](https://www.researchgate.net/publication/355498630_Activation_for_newly_learned_words_in_left_medial-temporal_lobe_during_toddlers'_sleep_is_associated_with_memory_for_words) 
 <br/>
 Published in _Current Biology: CB_, 2021
 <br/>
@@ -122,7 +122,7 @@ Published in _Psychological Inquiry_, 2016
 <br/>
 <br/>
 __Book Chapters__
-[Psychopharmacology of neurobehavioral disorders](https://www.researchgate.net/publication/337178239_Psychopharmacology_of_neurobehavioral_disorders)
+<br/>[Psychopharmacology of neurobehavioral disorders](https://www.researchgate.net/publication/337178239_Psychopharmacology_of_neurobehavioral_disorders)
 <br/>
 <br/>
 Published in _Handbook of Clinical Neurology_, 2019
