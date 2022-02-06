@@ -49,7 +49,7 @@ Published in _Autism Research_, 2020
 __Mooney, L. N.__, Nordahl, C., Soloman, M., & Ghetti, S. (2020). Children with ASD Show Impaired Item-Space Recollection, but Preserved Item-Color Recollection. _Autism Research_. 1-13. https://doi/org/10. 1002/aur.2395
 <br/>
 <br/>
-[View](/files/ASD Impaired Space Preserved Color.pdf) xxx
+[View](/files/ASD Impaired Space Preserved Color.pdf)
 <br/>
 <br/>
 <br/>
