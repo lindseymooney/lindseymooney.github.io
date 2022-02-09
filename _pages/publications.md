@@ -11,7 +11,6 @@ __Peer-Reviewed Articles__
 <br/>
 <br/>
 <br/>
-<br/>
 [__Mooney, L. N.__, Johnson, E. G., Prabhakar, J., & Ghetti, S. (2020). Memory-Related Hippocampal Activation During Sleep and Temporal Memory in Toddlers. _Developmental Cognitive Neuroscience, 47_, (1-9). https://doi.org/10.1016/j.dcn.2020.100908](/files/Temporal Memory Activation in Toddlers.pdf)
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_keywords:_ hippocampal development, songs, episodic memory, fMRI, spatial, temporal
 <br/>
@@ -28,7 +27,7 @@ __Peer-Reviewed Articles__
 <br/>
 <br/>
 [Pedapati, E., __Mooney, L. N.__, Wu, S., Erickson, C., Sweeney, J., Shaffer, R.C., Horn, P.S., Wink, L.K., & Gilbert, D. (2020). Motor Cortex Facilitation: A marker of Attention Deficit Hyperactivity Disorder co-occurrence in Austism Spectrum Disorder. _Translational Psychiatry, 9_(1), (1-11)](/files/Motor Cortex Facilitation ASD_ADHD.pdf)
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_keywords:_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_keywords:_ --------------------
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_keywords:_ --------------------
 <br/>
 <br/>
 <br/>
