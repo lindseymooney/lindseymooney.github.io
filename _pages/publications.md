@@ -27,7 +27,7 @@ __Peer-Reviewed Articles__
 <br/>
 <br/>
 [Pedapati, E., __Mooney, L. N.__, Wu, S., Erickson, C., Sweeney, J., Shaffer, R.C., Horn, P.S., Wink, L.K., & Gilbert, D. (2020). Motor Cortex Facilitation: A marker of Attention Deficit Hyperactivity Disorder co-occurrence in Austism Spectrum Disorder. _Translational Psychiatry, 9_(1), (1-11)](/files/Motor Cortex Facilitation ASD_ADHD.pdf)
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_keywords:_ --------------------
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_keywords:_ Autism, ADHD, biomaker, ICF
 <br/>
 <br/>
 <br/>
