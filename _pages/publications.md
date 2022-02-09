@@ -5,14 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 __Peer-Reviewed Articles__
-<br/>Activation for Newly Learned Words in Left Medial-Temporal Lobe During Toddlers’ Sleep is Associated with Word Learning
-<br/>
-<br/>
-Key Words: Medial, Activation, Toddler
-<br/>
-<br/>
-[Johnson, E. G., __Mooney, L. N.__, Estes, K. G., Nordal, C.W., Ghetti, S. (2021). Activation for Newly Learned Words in Left Medial-Temporal Lobe During Toddlers’ Sleep is Associated with Word Learning. _Current Biology: CB_, 10.1016/j.cub.2021.09.058.](/files/Activation Words in MTL Toddlers.pdf)
-<br/>
+[Johnson, E. G., __Mooney, L. N.__, Estes, K. G., Nordal, C.W., Ghetti, S. (2021). Activation for Newly Learned Words in Left Medial-Temporal Lobe During Toddlers’ Sleep is Associated with Word Learning. _Current Biology,31_, (5429-5438). https://doi.org/10.1016/j.cub.2021.09.058.](/files/Activation Words in MTL Toddlers.pdf)
+<br/>         _Key Words:_ Medial, Activation, Toddler
 <br/>
 <br/>
 <br/>
