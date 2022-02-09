@@ -17,7 +17,7 @@ __Peer-Reviewed Articles__
 <br/>
 <br/>
 [__Mooney, L. N.__, Nordahl, C., Soloman, M., & Ghetti, S. (2020). Children with ASD Show Impaired Item-Space Recollection, but Preserved Item-Color Recollection. _Autism Research, 13_, (1985-1977). https://doi/org/10.1002/aur.2395](/files/ASD Impaired Space Preserved Color.pdf)
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_keywords:_ ASD; episodic memory, middle childhood, signal detection theory, global processing
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_keywords:_ ASD, episodic memory, middle childhood, signal detection theory, global processing
 <br/>
 <br/>
 <br/>
