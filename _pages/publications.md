@@ -7,7 +7,7 @@ author_profile: true
 __Peer-Reviewed Articles__
 <br/>
 [Johnson, E. G., __Mooney, L. N.__, Estes, K. G., Nordal, C.W., Ghetti, S. (2021). Activation for Newly Learned Words in Left Medial-Temporal Lobe During Toddlers’ Sleep is Associated with Word Learning. _Current Biology, 31_, (5429-5438). https://doi.org/10.1016/j.cub.2021.09.058](/files/Activation Words in MTL Toddlers.pdf)
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_keywords:_ -----------------
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_keywords:_ memory, word learning, hippocampus, anterior medial-temporal lobe, vocabulary, early childhood, fMRI, episodic memory, developmental cognitive neuroscience
 <br/>
 <br/>
 <br/>
@@ -45,9 +45,9 @@ __Peer-Reviewed Articles__
 __Book Chapters__
 <br/>
 [__Mooney, L. N.__, Dominick, K.C., & Erickson, C. A. (2019). Psychopharmacology of Neurodevelopment Disorders. In: Reus V. and D. Lindqvist D. (Eds.), _Psychopharmacology of Neurologic Disease_. (158-175). San Diego: Elsevier BV.](/files/Psychopharmacology of NBD.pdf)
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_keywords:_ ---------------------------------
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_keywords:_ treatments, medications, ADHD, aggression, anxiety, mood, repetitive behaviors, Fragile X Syndrome, Down Syndrome, Prader-Willi Syndrome
 <br/>
 <br/>
 <br/>
 [__Mooney, L. N.__, Fosdick C, Erickson CA. (2019). Psychopharmacology of Autism Spectrum Disorder. In F. R. Volkmar (Ed.), _Autism and Pervasive Developmental Disorders_ (pp. 158-175). Cambridge, UK: Cambridge University Press. ](/files/PsychoPharmASDbookchapter.pdf)
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_keywords:_ ---------------------------------
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_keywords:_ Autism Spectrum Disorders, treatments, medication classes, symptomatology
