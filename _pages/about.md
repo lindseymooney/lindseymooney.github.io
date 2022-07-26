@@ -30,7 +30,7 @@ redirect_from:
 <p style="text-align: center;"><img src="images/LM Profile.jpg" alt="LM Profile.jpg" width="400"/></p>
 
 
-<h2 style="text-align: center;">I currently work with Dr. Simona Ghetti in the <a href = "https://madlab.faculty.ucdavis.edu/">Memory and Development Lab</a> at UC Davis. </br> I will be pursuing post-doctoral positions in 2024.</h2>
+<h2 style="text-align: center;">I currently work with Dr. Simona Ghetti in the <a href = "https://madlab.faculty.ucdavis.edu/">Memory and Development Lab</a> at UC Davis. <br> I will be pursuing post-doctoral positions in 2024.</h2>
 
 <h3>Research Interests</h3>
 <body>
@@ -44,4 +44,4 @@ redirect_from:
    </div>
  </body>
  
- <h3>Please contact me if you have an available post-doc position that you would be interested in filling with me!</h3>
+ <h3>Please contact me if you have an available post-doc position that you would be interested in filling with me.</h3>
