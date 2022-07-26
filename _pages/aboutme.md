@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-I am a fifth year Ph.D. candidate at UC Davis studying Developmental Cognitive Neuroscience with Dr. Simona Ghetti.
+I am a sixth year Ph.D. candidate at UC Davis studying Developmental Cognitive Neuroscience with Dr. Simona Ghetti.
 I graduated from Xavier University in the fall of 2015 and previously worked at Cincinnati Children’s Hospital Medical Center.
 My research interests include episodic memory development, atypical memory development, sleep, and developmental neuroimaging techniques.
 
