@@ -44,4 +44,4 @@ redirect_from:
    </div>
  </body>
  
- <h3>Please contact me if you have an available post-doc position that you would be interested in filling with me.</h3>
+ <h3>Please contact me at linzmooney@gmail.com or lnmooney@ucdavis.edu if you have an available post-doc position that you would be interested in filling with me.</h3>
