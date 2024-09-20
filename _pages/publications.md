@@ -6,6 +6,11 @@ author_profile: true
 ---
 __Peer-Reviewed Articles__
 <br/>
+[Mooney, L., Dadra, J., Davinson, K., Tani, N., & Ghetti, S. (2024). Memory for space and time in 2-year-olds. Cognitive Development, 70, 101443.]
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_keywords:_ episodic memory, spatial memory, temporal memory, memory development, relational binding
+<br/>
+<br/>
+<br/>
 [Johnson, E. G., __Mooney, L. N.__, Estes, K. G., Nordal, C.W., Ghetti, S. (2021). Activation for Newly Learned Words in Left Medial-Temporal Lobe During Toddlers’ Sleep is Associated with Word Learning. _Current Biology, 31_, (5429-5438). https://doi.org/10.1016/j.cub.2021.09.058](/files/Activation Words in MTL Toddlers.pdf)
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_keywords:_ memory, word learning, hippocampus, anterior medial-temporal lobe, vocabulary, early childhood, fMRI, episodic memory, developmental cognitive neuroscience
 <br/>
