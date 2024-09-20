@@ -6,7 +6,7 @@ author_profile: true
 ---
 __Peer-Reviewed Articles__
 <br/>
-[Mooney, L., Dadra, J., Davinson, K., Tani, N., & Ghetti, S. (2024). Memory for space and time in 2-year-olds. Cognitive Development, 70, 101443.]
+[Mooney, L., Dadra, J., Davinson, K., Tani, N., & Ghetti, S. (2024). Memory for space and time in 2-year-olds. Cognitive Development, 70, 101443. https://doi.org/10.1016/j.cogdev.2024.101443]
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_keywords:_ episodic memory, spatial memory, temporal memory, memory development, relational binding
 <br/>
 <br/>
