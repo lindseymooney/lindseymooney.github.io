@@ -4,10 +4,10 @@ main:
     url: /publications/
     
   - title: "CV"
-    url: https://drive.google.com/file/d/1XMa3Ue_5TAVh6b9Hy03uMEbafQjVWvnj/view?usp=sharing
+    url: https://drive.google.com/file/d/1XMa3Ue_5TAVh6b9Hy03uMEbafQjVWvnj/view?usp=drive_link
     
   - title: "Resources"
-    url: https://docs.google.com/document/d/1bgD15hQWZx9KjyWiS8WlAGjHzATYoCQp/edit?usp=sharing&ouid=108050016976868702295&rtpof=true&sd=true
+    url: https://docs.google.com/document/d/e/2PACX-1vTQ5ZgwmPlds_QFHvMK-qW0lxSt6qjntnNtCYtPv6L5FQqqNkogJC2jrw78H3pmSQ/pub
     
   - title: "Current Projects"
     url: /currentprojects/
