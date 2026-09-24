@@ -83,11 +83,11 @@ author:
   name             : "Lindsey Mooney"
   avatar           : "LM Profile.jpg"
   bio              : "Ph.D."
-  location         : "Western Massachusetts"
+  location         : #"Western Massachusetts"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=xZgxzScAAAAJ&hl=en"
-  email            :
+  email            : "emailto:lnmooney@umass.edu"
   researchgate     : "https://www.researchgate.net/profile/Lindsey-Mooney"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            : "https://orcid.org/0000-0002-6660-4793"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
