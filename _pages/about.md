@@ -25,7 +25,7 @@ redirect_from:
       }
 </style>
 
-<h2 style="text-align: center;">Postdoctoral Scholar studying Developmental Cognitive Neuroscience</h2>
+<h2 style="text-align: center;">Developmental Cognitive Neuroscientist</h2>
 
 <p style="text-align: center;"><img src="images/LM Profile.jpg" alt="LM Profile.jpg" width="400"/></p>
 
