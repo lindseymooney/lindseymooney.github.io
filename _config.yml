@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Lindsey Mooney"
+description              : &description "Lindsey Mooney, Ph.D., is a developmental cognitive neuroscientist studying how memories emerge in infancy and early childhood, and how sleep shapes what young children remember."
 url                      : https://lindseymooney.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Lindsey Mooney"
   avatar           : "LM Profile.jpg"
-  bio              : "Ph.D."
+  bio              : "Ph.D., Developmental Cognitive Neuroscientist"
   location         : #"Western Massachusetts"
-  employer         :
+  employer         : "University of Massachusetts Amherst"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=xZgxzScAAAAJ&hl=en"
   email            : "lnmooney@umass.edu"
