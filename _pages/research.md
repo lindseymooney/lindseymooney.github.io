@@ -1,7 +1,9 @@
 ---
 layout: archive
-title: "Current Projects"
-permalink: /currentprojects/
+title: "Research"
+permalink: /research/
+redirect_from:
+  - /currentprojects/
 author_profile: true
 ---
 
