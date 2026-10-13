@@ -34,7 +34,7 @@ redirect_from:
 
 <h2 style="text-align: center;">Developmental Cognitive Neuroscientist</h2>
 
-<p style="text-align: center;"><img src="images/LM Profile.jpg" alt="LM Profile.jpg" width="400"/></p>
+<p style="text-align: center;"><img src="images/LM_Profile_2026.jpg" alt="Lindsey Mooney" width="400"/></p>
 
 
 <h2 style="text-align: center;">I currently work with Dr. Rebecca Spencer in the <a href = "https://www.somneurolab.com/">Somneuro Lab</a> at the University of Massachusetts, Amherst. <br><br> If your department is searching for a faculty member with my expertise, please feel free to reach out!</h2>
