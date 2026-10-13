@@ -22,5 +22,5 @@ author_profile: true
 <br/>
 <img width = "200" src = "/images/MRI_2.jpeg" style = "float: left; margin: 0 20px 10px 0;"> 
 <h2>Atypical Memory Development</h2>
-<p>I am investigating the elements of episodic memory in the context of developmental disorders and atypical cognition, specifically in Autism Spectrum Disorder.</p>
+<p>I study how memory development can diverge from typical trajectories, particularly in autism. In middle childhood, autistic children show altered memory for where items appeared but preserved memory for their color, suggesting that differences lie specifically in binding items to their spatial context rather than in episodic memory as a whole. I am interested in when these differences first emerge and what they reveal about how episodic memory is built in typical development.</p>
 <div style="clear: both;"></div>
