@@ -11,7 +11,7 @@ I am a postdoctoral scholar at the University of Massachusetts Amherst, where I 
 
 I completed my Ph.D. in 2024 under the supervision of Dr. Simona Ghetti at the University of California, Davis, supported by an NIH/NIMH F31 predoctoral fellowship.
 I graduated from Xavier University in the fall of 2015 and previously worked at Cincinnati Children’s Hospital Medical Center on research in autism and related neurodevelopmental conditions.
-My research interests include episodic memory development, atypical memory development, sleep, and developmental neuroimaging techniques.
+My research interests include the emergence of episodic memory, memory generalization and precision, sleep-dependent memory consolidation, hippocampal development, and atypical memory development.
 
 As a first-generation college graduate, I know how much a good mentor can change a student’s path. Mentoring emerging minds is one of the most rewarding aspects of my research career. I have mentored more than 100 undergraduates, and my mentorship has been recognized with the UC Davis Chancellor’s Award for Excellence in Mentoring Undergraduate Research (2024) and the UC Davis Department of Psychology Diverse Mentorship Initiative Award (2021).
 
