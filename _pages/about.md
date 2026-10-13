@@ -52,4 +52,4 @@ redirect_from:
    </div>
  </body>
  
- <h3>Please contact me at linzmooney@gmail.com or lnmooney@umass.edu if you are interested in collaborating.</h3>
+ <h3>Please contact me at lnmooney@umass.edu or linzmooney@gmail.com if you are interested in collaborating.</h3>
